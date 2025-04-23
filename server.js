@@ -11,7 +11,7 @@ const shoes = [
     { name: "Velcro Sandals", price: 15, type: "sandal" },
     { name: "Jet Boots", price: 1000, type: "boot" },
     { name: "Fifty-Inch Heels", price: 175, type: "heel" }
-]; 
+];
 
 const express=require("express");
 const morgan = require("morgan");
